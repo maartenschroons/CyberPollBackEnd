@@ -1,0 +1,16 @@
+C:\Angular\PollProject\PollBackend\PollBackend\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Angular\PollProject\PollBackend\PollBackend\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Angular\PollProject\PollBackend\PollBackend\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Angular\PollProject\PollBackend\PollBackend\bin\Debug\netcoreapp2.2\PollBackend.deps.json
+C:\Angular\PollProject\PollBackend\PollBackend\bin\Debug\netcoreapp2.2\PollBackend.runtimeconfig.json
+C:\Angular\PollProject\PollBackend\PollBackend\bin\Debug\netcoreapp2.2\PollBackend.runtimeconfig.dev.json
+C:\Angular\PollProject\PollBackend\PollBackend\bin\Debug\netcoreapp2.2\PollBackend.dll
+C:\Angular\PollProject\PollBackend\PollBackend\bin\Debug\netcoreapp2.2\PollBackend.pdb
+C:\Angular\PollProject\PollBackend\PollBackend\obj\Debug\netcoreapp2.2\PollBackend.csprojAssemblyReference.cache
+C:\Angular\PollProject\PollBackend\PollBackend\obj\Debug\netcoreapp2.2\PollBackend.RazorAssemblyInfo.cache
+C:\Angular\PollProject\PollBackend\PollBackend\obj\Debug\netcoreapp2.2\PollBackend.RazorAssemblyInfo.cs
+C:\Angular\PollProject\PollBackend\PollBackend\obj\Debug\netcoreapp2.2\PollBackend.AssemblyInfoInputs.cache
+C:\Angular\PollProject\PollBackend\PollBackend\obj\Debug\netcoreapp2.2\PollBackend.AssemblyInfo.cs
+C:\Angular\PollProject\PollBackend\PollBackend\obj\Debug\netcoreapp2.2\PollBackend.RazorTargetAssemblyInfo.cache
+C:\Angular\PollProject\PollBackend\PollBackend\obj\Debug\netcoreapp2.2\PollBackend.dll
+C:\Angular\PollProject\PollBackend\PollBackend\obj\Debug\netcoreapp2.2\PollBackend.pdb
